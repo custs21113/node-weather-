@@ -1,0 +1,140 @@
+{
+  "cities": [
+    {
+      "cityName": "安徽",
+      "cityUrl": "https://weather.cma.cn/web/text/HD/AAH.html"
+    },
+    {
+      "cityName": "贵州",
+      "cityUrl": "https://weather.cma.cn/web/text/XN/AGZ.html"
+    },
+    {
+      "cityName": "甘肃",
+      "cityUrl": "https://weather.cma.cn/web/text/XB/AGS.html"
+    },
+    {
+      "cityName": "广东",
+      "cityUrl": "https://weather.cma.cn/web/text/HN/AGD.html"
+    },
+    {
+      "cityName": "广西",
+      "cityUrl": "https://weather.cma.cn/web/text/HN/AGX.html"
+    },
+    {
+      "cityName": "内蒙古",
+      "cityUrl": "https://weather.cma.cn/web/text/HB/ANM.html"
+    },
+    {
+      "cityName": "宁夏",
+      "cityUrl": "https://weather.cma.cn/web/text/XB/ANX.html"
+    },
+    {
+      "cityName": "西藏",
+      "cityUrl": "https://weather.cma.cn/web/text/XN/AXZ.html"
+    },
+    {
+      "cityName": "新疆",
+      "cityUrl": "https://weather.cma.cn/web/text/XB/AXJ.html"
+    },
+    {
+      "cityName": "北京",
+      "cityUrl": "https://weather.cma.cn/web/text/HB/ABJ.html"
+    },
+    {
+      "cityName": "湖南",
+      "cityUrl": "https://weather.cma.cn/web/text/HZ/AHN.html"
+    },
+    {
+      "cityName": "海南",
+      "cityUrl": "https://weather.cma.cn/web/text/HN/AHI.html"
+    },
+    {
+      "cityName": "河南",
+      "cityUrl": "https://weather.cma.cn/web/text/HZ/AHA.html"
+    },
+    {
+      "cityName": "湖北",
+      "cityUrl": "https://weather.cma.cn/web/text/HZ/AHB.html"
+    },
+    {
+      "cityName": "河北",
+      "cityUrl": "https://weather.cma.cn/web/text/HB/AHE.html"
+    },
+    {
+      "cityName": "黑龙江",
+      "cityUrl": "https://weather.cma.cn/web/text/DB/AHL.html"
+    },
+    {
+      "cityName": "青海",
+      "cityUrl": "https://weather.cma.cn/web/text/XB/AQH.html"
+    },
+    {
+      "cityName": "云南",
+      "cityUrl": "https://weather.cma.cn/web/text/XN/AYN.html"
+    },
+    {
+      "cityName": "重庆",
+      "cityUrl": "https://weather.cma.cn/web/text/XN/ACQ.html"
+    },
+    {
+      "cityName": "吉林",
+      "cityUrl": "https://weather.cma.cn/web/text/DB/AJL.html"
+    },
+    {
+      "cityName": "江西",
+      "cityUrl": "https://weather.cma.cn/web/text/HD/AJX.html"
+    },
+    {
+      "cityName": "江苏",
+      "cityUrl": "https://weather.cma.cn/web/text/HD/AJS.html"
+    },
+    {
+      "cityName": "上海",
+      "cityUrl": "https://weather.cma.cn/web/text/HD/ASH.html"
+    },
+    {
+      "cityName": "山东",
+      "cityUrl": "https://weather.cma.cn/web/text/HD/ASD.html"
+    },
+    {
+      "cityName": "山西",
+      "cityUrl": "https://weather.cma.cn/web/text/HB/ASX.html"
+    },
+    {
+      "cityName": "四川",
+      "cityUrl": "https://weather.cma.cn/web/text/XN/ASC.html"
+    },
+    {
+      "cityName": "陕西",
+      "cityUrl": "https://weather.cma.cn/web/text/XB/ASN.html"
+    },
+    {
+      "cityName": "浙江",
+      "cityUrl": "https://weather.cma.cn/web/text/HD/AZJ.html"
+    },
+    {
+      "cityName": "福建",
+      "cityUrl": "https://weather.cma.cn/web/text/HD/AFJ.html"
+    },
+    {
+      "cityName": "辽宁",
+      "cityUrl": "https://weather.cma.cn/web/text/DB/ALN.html"
+    },
+    {
+      "cityName": "天津",
+      "cityUrl": "https://weather.cma.cn/web/text/HB/ATJ.html"
+    },
+    {
+      "cityName": "香港",
+      "cityUrl": "https://weather.cma.cn/web/text/GAT/AXG.html"
+    },
+    {
+      "cityName": "澳门",
+      "cityUrl": "https://weather.cma.cn/web/text/GAT/AAM.html"
+    },
+    {
+      "cityName": "台湾",
+      "cityUrl": "https://weather.cma.cn/web/text/GAT/ATW.html"
+    }
+  ]
+}
